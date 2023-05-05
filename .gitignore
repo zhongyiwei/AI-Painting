@@ -32,8 +32,8 @@ notification.mp3
 /extensions
 /test/stdout.txt
 /test/stderr.txt
-/cache.json
+/cache.json*
+/config_states/
 webui-user - Copy.bat
 webui-user - No Listen Or Share.bat
-webui-user.bat
 webui-user.bat
